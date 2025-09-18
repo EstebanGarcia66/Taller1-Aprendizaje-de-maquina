@@ -1,0 +1,16 @@
+
+Prompts Preguntas
+
+1- Actua como un experto en machine learning y dame una descripcion breve de los siguientes terminos Big data Machine learning Inteligencia artificial Ciencia de datos (data science) Deep learning Minería de datos (data mining) Inteligencia de negocios Estadística.
+
+2- crea un diagrama que muestre las relaciones entre los anteriores conceptos. Genera el diagrama usando la sintaxis de mermaid.js. Opcionalmente cual plugin podria usar para el diagrama?.
+
+2.1(Correcciones sobre el diagrama)- Este diagrama de relaciones tiene sentido? es correcta la forma de relacionar cada termino? en caso de que encuentres inconsistencia por favor mejora el diagrama de manera que no queden cabos sueltos y que el diagrama final quede de la manera mas ordenada posible.
+
+4- Dime una repsuesta definida acerca de que son los transformars, además busca información al respecto sobre los siguientes aspectos: a) Cuáles son las ideas principales de su funcionamiento, b) Cuáles son las aplicaciones. c) Qué son los grandes modelos de lenguaje y qué relación tienen con los transformers. d) Cómo se entrena un LLM conversacional.
+
+
+
+Prompts de Ejercicio:
+
+1-Escriba un programa en Python que reciba como entrada un número entero e imprima como salida el número siguiente a ese valor.
